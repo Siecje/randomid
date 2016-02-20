@@ -1,0 +1,7 @@
+[package]
+name = "randomid"
+version = "0.1.0"
+authors = ["Ben Tranter <ben.tranter@metalab.co>"]
+
+[dependencies]
+rust-crypto = "^0.2"
