@@ -1,7 +1,7 @@
 Random ID
 ---
 
-Inspired by [Antirez's blog post], I figured I'd try to learn some Rust by implementing his strategy for creating unique IDs.
+Inspired by [Antirez's blog post](http://antirez.com/news/99), I figured I'd try to learn some Rust by implementing his strategy for creating unique IDs.
 
 The logic is simple. On initialization, you:
 
